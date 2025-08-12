@@ -11,8 +11,7 @@ const Dashboard = () => {
         <main className="main-content">
           <div className="dashboard-grid">
             <div className="card">
-              <h3>Total Users</h3>
-              <p className="stat">1,234</p>
+           
             </div>
             <div className="card">
               <h3>Revenue</h3>
